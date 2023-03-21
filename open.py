@@ -1,2 +1,2 @@
-e = input("what is your name")
-print (e)
+A = input("what is your name")
+print (A)
